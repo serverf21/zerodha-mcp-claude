@@ -2,6 +2,9 @@
 
 A Model Context Protocol (MCP) server that enables Claude AI to interact with your Zerodha trading account. This integration allows Claude to execute trades and analyze your portfolio through natural language commands.
 
+![F578E082-4248-4E04-B07F-BD2235CDADFA_1_105_c](https://github.com/user-attachments/assets/0e00d3df-1b78-418d-9e00-c19901fc9073)
+
+
 ## Features
 
 - 🚀 Execute market orders (buy/sell stocks)
